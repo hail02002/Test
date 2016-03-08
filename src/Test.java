@@ -4,7 +4,7 @@ public class Test {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a;
-		a=1;
+		a=2;//get method
 		return;
 	}
 
