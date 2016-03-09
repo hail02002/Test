@@ -5,6 +5,7 @@ public class Test {
 		// TODO Auto-generated method stub
 		int a;
 		a=2;//get method
+		System.out.println("Hello GitHub!");
 		return;
 	}
 
